@@ -2,20 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://quyenmvo.github.io/tags/ai/</loc>
+    <lastmod>2024-06-13T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://quyenmvo.github.io/blogs/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2024-06-13T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://quyenmvo.github.io/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://quyenmvo.github.io/tags/diffusion/</loc>
+    <lastmod>2024-06-13T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://quyenmvo.github.io/blogs/page/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://quyenmvo.github.io/blogs/diffusion-model/</loc>
+    <lastmod>2024-06-13T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://quyenmvo.github.io/tags/generative/</loc>
+    <lastmod>2024-06-13T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://quyenmvo.github.io/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2024-06-13T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://quyenmvo.github.io/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2024-06-13T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://quyenmvo.github.io/tags/active-learning/</loc>
+    <lastmod>2024-06-06T10:28:13+00:00</lastmod>
+  </url><url>
+    <loc>https://quyenmvo.github.io/projects/improving-t2i-models-with-ai-feedback/</loc>
+    <lastmod>2024-06-06T10:28:13+00:00</lastmod>
+  </url><url>
+    <loc>https://quyenmvo.github.io/tags/mllm/</loc>
+    <lastmod>2024-06-06T10:28:13+00:00</lastmod>
+  </url><url>
+    <loc>https://quyenmvo.github.io/projects/</loc>
+    <lastmod>2024-06-06T10:28:13+00:00</lastmod>
+  </url><url>
+    <loc>https://quyenmvo.github.io/tags/text-to-image/</loc>
+    <lastmod>2024-06-06T10:28:13+00:00</lastmod>
   </url><url>
     <loc>https://quyenmvo.github.io/archives/</loc>
   </url><url>
